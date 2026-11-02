@@ -74,14 +74,11 @@ P("skincare", "Chấm mụn Dr.PONG", "seal", 220, 110, "https://down-vn.img.sus
 P("skincare", "Kem Dưỡng Giảm Mụn La Roche Posay", "seal", 240, 120, "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lphvxb4ghhdh66.webp");
 P("skincare", "Toner pad Medicube", "seal", 700, 300,"https://down-vn.img.susercontent.com/file/sg-11134201-824gm-mfnuyadcqosub7.webp");
 P("skincare", "Toner pad Medicube PDRN", "seal", 700, 300,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m92izyaczdke87@resize_w900_nl.webp");
-P("skincare", "Toner Caryophy", "seal", 380, 160,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8oc43stj7lwf8.webp");
 P("skincare", "Toner Sơn Đòong", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtt349ft7uo8c1.webp");
 P("skincare", "Toner Repiel", "seal", 330, 165,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mp32r10imadq6d.webp");
 P("skincare", "Toner pad Abib", "seal", 460, 230,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-ma1371zk1qbm9d.webp");
 P("skincare", "Serum Chống Lão Hóa giúp Dưỡng Ẩm Kans", "seal", 340, 170,"https://down-vn.img.susercontent.com/file/sg-11134201-8258m-murbccpkvtole8.webp");
 P("skincare", "Serum dưỡng sáng mờ thâm Repiel", "seal", 380, 190,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu4bdh6zyxaf3c.webp");
-P("skincare", "Serum phục hồi PDRN Repiel", "seal", 380, 190,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mp32ua8ahi4v08.webp");
-P("skincare", "Serum làm dịu da Abib", "seal", 420, 210,"https://i.ebayimg.com/images/g/H3YAAOSwaQpnoBCF/s-l1600.webp");
 P("skincare", "Serum dưỡng ẩm sáng da Abib", "seal", 420, 210,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/c/o/copy_of_h_nh_nh_listing_5__10.png");
 P("skincare", "Serum phục hồi Chando (mới)", "seal", 1075, 500,"https://down-vn.img.susercontent.com/file/vn-11134201-7ra0g-m9qu3nz7iatgb8.webp");
 P("skincare", "Serum Innisfree", "seal", 620, 310,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mnw7hwkck9ad59@resize_w900_nl.webp");
