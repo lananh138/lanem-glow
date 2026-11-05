@@ -52,7 +52,6 @@ P("lamsach", "Nước tẩy trang Judydoll", "seal", 180, 90,"https://down-vn.im
 P("lamsach", "Nước tẩy trang 3in1 Q.P Cosmetique", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mud7t0hnpvr5ca.webp");
 P("lamsach", "Nước tẩy trang Colorkey", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnkif3i4phccd.webp");
 P("lamsach", "Nước tẩy trang Dermayu", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mr8c39h2vpc5cb.webp");
-P("lamsach", "Nước tẩy trang Senka", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mdr2qmk33ged2e.webp");
 P("lamsach", "Sữa rửa mặt Cỏ Cây Hoa Lá", "seal", 294, 145,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu4cttzuvtab79.webp");
 P("lamsach", "Sữa Rửa Mặt Cám Gạo", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mjdxb3lfbj0n8f.webp");
 P("lamsach", "Sữa rửa mặt Cerave 88ml", "seal", 140, 70,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mcyfnun947do68.webp");
@@ -105,6 +104,7 @@ P("skincare", "Lotion dưỡng sáng 377", "seal", 300, 150,"https://down-vn.img
 P("chongnang", "Kem chống nắng Bioré", "seal", 256, 127,"https://biorevietnam.vn/wp-content/uploads/2023/08/1-2.png");
 P("chongnang", "Bioré UV Aqua Rich", "seal", 200, 100,"https://biorevietnam.vn/wp-content/uploads/2023/08/2-1.png");
 P("chongnang", "Serum chống nắng La Roche-Posay", "test", 520, 250,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
+P("chongnang", "Sữa chống nắng Biore UV Smooth Velvet Pore Cover Milk 30ml", "test", 120, 60,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
 P("chongnang", "Kem chống nắng La Roche-Posay", "seal", 520, 250,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/lrp_anthelios_uvmune_400_oil_gel_cream_ap_bottle_packshot_front_f43835fdee.png");
 P("chongnang", "Kem chống nắng Medicube", "test", 390, 195,"https://img.lazcdn.com/g/p/b4821ff3523559a71e8b3c425743fd75.jpg_720x720q80.jpg_.webp");
 P("chongnang", "Kem chống nắng BOM", "seal", 490, 245,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/3/0/3019908_1_.jpg");
@@ -234,6 +234,7 @@ P("khac", "Bộ cọ trang điểm Maange 14 cây", "seal", 180, 90,"https://dow
 P("khac", "Bộ cọ trang điểm Gu Việt", "seal", 440, 220,"https://bizweb.dktcdn.net/thumb/grande/100/348/157/products/nau-biaweb-ne-01.jpg?v=1749357245690");
 P("khac", "Nước hoa", "seal", 120, 60,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mrfop37uilmp94.webp");
 P("khac", "Xịt mọc tóc Lab On Hair", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mr9nlv5ks4xu47.webp");
+P("khac", "TINH DẦU DƯỠNG TÓC CHUẨN SALON KARSILK", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mj5cs9t9o5q8ef@resize_w900_nl.webp");
 P("khac", "Serum dưỡng tóc Dove", "seal", 250, 125,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mlg3ew5f9n2n58.webp");
 P("khac", "Xịt dưỡng tóc Dherbal", "seal", 220, 110,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mf5u1nijm8loe3.webp");
 P("khac", "Sữa tắm Purité", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m6pb5ruw10ewab.webp");
