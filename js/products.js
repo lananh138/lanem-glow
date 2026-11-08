@@ -51,10 +51,9 @@ function P(cat, name, status, orig, sale, extra) {
 P("lamsach", "Nước tẩy trang Judydoll", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/sg-11134201-825at-muop60cvfw8w49.webp");
 P("lamsach", "Nước tẩy trang 3in1 Q.P Cosmetique", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mud7t0hnpvr5ca.webp");
 P("lamsach", "Nước tẩy trang Colorkey", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnkif3i4phccd.webp");
-P("lamsach", "Nước tẩy trang Dermayu", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mr8c39h2vpc5cb.webp");
 P("lamsach", "Sữa rửa mặt Cỏ Cây Hoa Lá", "seal", 294, 145,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu4cttzuvtab79.webp");
 P("lamsach", "Sữa Rửa Mặt Cám Gạo", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mjdxb3lfbj0n8f.webp");
-P("lamsach", "Sữa rửa mặt Cerave 88ml", "seal", 140, 70,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mcyfnun947do68.webp");
+P("lamsach", "Sữa rửa mặt Cerave", "seal", 356, 170,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/DSC_09496_6faed3c188.png");
 P("lamsach", "Sữa rửa mặt Sắc Ngọc Khang", "seal", 100, 50,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mcitrzjs615of5.webp");
 P("lamsach", "Sữa rửa mặt SVR", "seal", 540, 260,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mosgfzqriuxb8a.webp");
 P("lamsach", "Sữa rửa mặt Retolab", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-monqc3rfz8cr6f.webp");
@@ -85,7 +84,6 @@ P("skincare", "Serum trị mụn Trioderma", "seal", 345, 170,"https://down-vn.i
 P("skincare", "Serum dưỡng sáng 377", "seal", 270, 140,"https://down-vn.img.susercontent.com/file/cf23f909c2a64867f932915f880bf91a.webp");
 P("skincare", "Serum dưỡng sáng Simple", "seal", 235, 115,"https://down-vn.img.susercontent.com/file/sg-11134275-82622-mjnzvj8mz9c2a7.webp");
 P("skincare", "Retinol Some By Mi", "test", 400, 200,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mokosp7yyih7a8.webp");
-P("skincare", "Peel hồng L'Oréal", "seal", 449, 220,"https://cdn.hstatic.net/products/1000391653/lor670.1_07fa94f4552a4f32b5a58161ccd25dc4_master.jpg");
 P("skincare", "Kem dưỡng kép Retinol Some By Mi", "test", 420, 200,"https://down-vn.img.susercontent.com/file/sg-11134207-8259d-mgfvih01i1aka7.webp");
 P("skincare", "Kem mắt Retinol Some By Mi", "test", 400, 200,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtrqwu1p143k2c.webp");
 P("skincare", "Kem dưỡng sáng da chống nắng Olay", "test", 750, 350,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/3/0/3031663_1_.png");
@@ -104,7 +102,7 @@ P("skincare", "Lotion dưỡng sáng 377", "seal", 300, 150,"https://down-vn.img
 P("chongnang", "Kem chống nắng Bioré", "seal", 256, 127,"https://biorevietnam.vn/wp-content/uploads/2023/08/1-2.png");
 P("chongnang", "Bioré UV Aqua Rich", "seal", 200, 100,"https://biorevietnam.vn/wp-content/uploads/2023/08/2-1.png");
 P("chongnang", "Serum chống nắng La Roche-Posay", "test", 520, 250,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
-P("chongnang", "Sữa chống nắng Biore UV Smooth Velvet Pore Cover Milk 30ml", "test", 120, 60,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
+P("chongnang", "Sữa chống nắng Biore UV Smooth Velvet Pore Cover Milk 30ml", "test", 120, 60,"https://production-cdn.pharmacity.io/digital/1080x1080/plain/e-com/images/ecommerce/20260710085811-1-P09554_1.png?versionId=MCnqhEDlwu3ObvME9ZDBpd_3wDVIhMW5");
 P("chongnang", "Kem chống nắng La Roche-Posay", "seal", 520, 250,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/lrp_anthelios_uvmune_400_oil_gel_cream_ap_bottle_packshot_front_f43835fdee.png");
 P("chongnang", "Kem chống nắng Medicube", "test", 390, 195,"https://img.lazcdn.com/g/p/b4821ff3523559a71e8b3c425743fd75.jpg_720x720q80.jpg_.webp");
 P("chongnang", "Kem chống nắng BOM", "seal", 490, 245,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/3/0/3019908_1_.jpg");
@@ -163,6 +161,7 @@ P("nen", "Phấn phủ Carslan", "test", 350, 175,"https://down-vn.img.susercont
 P("nen", "Phấn phủ Mooekiss", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-muixzt3fpede10.webp");
 P("nen", "Phấn phủ Focallure", "seal", 63, 30,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2d89jvs04vo2d.webp");
 P("nen", "Phấn phủ Timephoria", "test", 280, 140,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-msywcnslbtoie7.webp");
+P("nen", "Phấn Phủ Dạng Nén Mooekiss", "test", 220, 110,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mo9i1q1bn9ql3f.webp");
 
 /* ---------- MÁ HỒNG & KHỐI ---------- */
 P("ma", "Má hồng Timephoria", "test", 210, 105,"https://cdn.hstatic.net/products/1000006063/download_fcd7d2afccb54cce81f4d2963d5d43a5_1024x1024.jpg");
@@ -178,13 +177,14 @@ P("ma", "Má hồng Judydoll mini", "seal", 100, 50,"https://down-vn.img.suserco
 P("ma", "Má hồng XiXi", "test", 80, 40,"https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lnlgqezbr3q3bf.webp");
 P("ma", "Má hồng Focallure", "test", 154, 76,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mun9mzbbve2u5f.webp");
 P("ma", "Highlight Rocksweet", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/sg-11134201-81zu0-mmu0ijblpd6q9d.webp");
-P("ma", "Highlight Cheeryep Pillow Gem Powder", "test", 370, 170,"https://down-vn.img.susercontent.com/file/sg-11134201-81zvk-mn1b1mm90wzn90.webp");
 P("ma", "Highlight Trendbeauty", "test", 235, 115,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mukkcjhji803d0.webp");
 P("ma", "RED CHAMBER WANDERING Flawless Compact Powder", "test", 690, 345,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-muxeba0scphm0e.webp");
 P("ma", "Bảng highlight & khối Little Ondine", "test", 571, 270,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mjpa6njng3d178.webp");
 P("ma", "Bảng khối Hoa Tây Tử", "test", 698, 348,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mgvq08du639l08.webp");
 P("ma", "Bảng khối Hexze", "test", 140, 70,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mqf2hugxfbbi8d.webp");
 P("ma", "Bảng khối Judydoll", "seal", 340, 170,"https://down-vn.img.susercontent.com/file/sg-11134201-823qr-molmbibldv5ub2.webp");
+P("ma", "Bút tạo khối Time Phoria ", "seal", 240, 120,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mez5h48khz4a1f.webp");
+P("ma", "Kem Tạo Khối Bắt Sáng Hai Đầu MOOEKISS ", "seal", 140, 70,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mqhba56v9nupe2.webp");
 P("ma", "Bảng Tạo Khối & Highlight Đa Năng Out Of Office", "test", 300, 150,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mj81j6bpwgea03.webp");
 P("ma", "Bảng trang điểm đa năng Menow", "seal", 220, 110,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mssjpteuwhs08d.webp");
 P("ma", "Bảng trang điểm đa năng JOOCYEE ", "test", 700, 340,"https://down-vn.img.susercontent.com/file/sg-11134201-825az-muyrccyoy8lgd6.webp");
@@ -193,10 +193,10 @@ P("ma", "Bảng trang điểm đa năng JOOCYEE ", "test", 700, 340,"https://dow
 P("mat", "Bảng mắt Wosado", "seal", 170, 85,"https://down-vn.img.susercontent.com/file/cn-11134207-7ras8-m8o6ccq07vg2b9.webp");
 P("mat", "Bảng mắt Judydoll", "seal", 310, 155,"https://down-vn.img.susercontent.com/file/vn-11134201-7ras8-mapbofznwk3l24.webp");
 P("mat", "Bảng mắt XiXi", "test", 100, 50,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mdy8s1d7v8jrb1.webp");
-P("mat", "Palette Mắt 12 Màu XIXI", "test", 100, 50,"https://down-vn.img.susercontent.com/file/cn-11134207-7ras8-ma2f9re3ms3gfa.webp");
 P("mat", "Bảng mắt Focallure", "test", 194, 96,"https://medias.watsons.vn/publishing/WTCVN-218908-front-zoom.jpg?version=1785078712&imageresize=1280_1280");
 P("mat", "Bảng phấn mắt Rock Sweet 5 Ô", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mibrtwk8p72b58.webp");
 P("mat", "Bảng mắt Shedella", "seal", 140, 70,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mleodscsq9s224.webp");
+P("mat", "Phấn Mắt 7 Màu Shedella", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lyfdux8h2aht97.webp");
 P("mat", "Bảng mắt L'Adore Colors", "test", 160, 80,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mof72jv0bx1l23.webp");
 P("mat", "Bảng mắt Mooekiss", "test", 169, 84,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mun7ol3sbi16b8.webp");
 P("mat", "Bảng Phấn Mắt 4 Màu Trang Điểm KATE", "test", 270, 130,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mm5tlxrb4x6r58.webp");
@@ -206,7 +206,6 @@ P("mat", "Kẻ mắt Amortals", "test", 112, 56,"https://down-vn.img.suserconten
 P("mat", "Mascara Mistine", "test", 190, 80,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mtqaduu4o2rpec.webp");
 P("mat", "Mascara Maange", "seal", 126, 63,"https://down-vn.img.susercontent.com/file/sg-11134201-8262u-mk3rokffuholcf.webp");
 P("mat", "Mascara Barenbliss", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-m04enocmiljjc3.webp");
-P("mat", "Chì kẻ lông mày Feilinka", "seal", 50, 25,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mifi3vs2o35s34.webp");
 P("mat", "Kẻ mày M.Len Diary", "seal", 148, 74,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mu0fmoroewhsec.webp");
 P("mat", "Kẻ mày Amortals", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mmtu80me1jpcb0.webp");
 P("mat", "Mascara Dazzle Me", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mi8dzgx3semg35.webp");
