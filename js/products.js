@@ -53,7 +53,6 @@ P("lamsach", "Nước tẩy trang 3in1 Q.P Cosmetique", "seal", 80, 40,"https://
 P("lamsach", "Nước tẩy trang Colorkey", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnkif3i4phccd.webp");
 P("lamsach", "Sữa rửa mặt Cỏ Cây Hoa Lá", "seal", 294, 145,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu4cttzuvtab79.webp");
 P("lamsach", "Sữa Rửa Mặt Cám Gạo", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mjdxb3lfbj0n8f.webp");
-P("lamsach", "Sữa rửa mặt Cerave", "seal", 356, 170,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/DSC_09496_6faed3c188.png");
 P("lamsach", "Sữa rửa mặt Sắc Ngọc Khang", "seal", 100, 50,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mcitrzjs615of5.webp");
 P("lamsach", "Sữa rửa mặt SVR", "seal", 540, 260,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mosgfzqriuxb8a.webp");
 P("lamsach", "Sữa rửa mặt Retolab", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-monqc3rfz8cr6f.webp");
@@ -68,7 +67,6 @@ P("lamsach", "Tẩy tế bào chết Retolab", "seal", 280, 140,"https://down-vn
 /* ---------- SKINCARE ---------- */
 P("skincare", "Kem trị mụn Trioderma", "seal", 190, 95, "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhkql1vwf18oab.webp");
 P("skincare", "Gel Chấm Mụn DermaX ", "seal", 180, 90, "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-muu1yexrkdft2a.webp");
-P("skincare", "Chấm mụn Dr.PONG", "seal", 220, 110, "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-msnjhdhk229xab.webp");
 P("skincare", "Kem Dưỡng Giảm Mụn La Roche Posay", "seal", 240, 120, "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lphvxb4ghhdh66.webp");
 P("skincare", "Toner pad Medicube", "seal", 700, 300,"https://down-vn.img.susercontent.com/file/sg-11134201-824gm-mfnuyadcqosub7.webp");
 P("skincare", "Toner pad Medicube PDRN", "seal", 700, 300,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m92izyaczdke87@resize_w900_nl.webp");
