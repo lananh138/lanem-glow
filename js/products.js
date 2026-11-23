@@ -49,7 +49,6 @@ function P(cat, name, status, orig, sale, extra) {
 
 /* ---------- TẨY TRANG & RỬA MẶT ---------- */
 P("lamsach", "Nước tẩy trang Judydoll", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/sg-11134201-825at-muop60cvfw8w49.webp");
-P("lamsach", "Nước tẩy trang 3in1 Q.P Cosmetique", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mud7t0hnpvr5ca.webp");
 P("lamsach", "Nước tẩy trang Colorkey", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnkif3i4phccd.webp");
 P("lamsach", "Sữa rửa mặt Cỏ Cây Hoa Lá", "seal", 294, 145,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu4cttzuvtab79.webp");
 P("lamsach", "Gel Rửa Mặt Sạch Thoáng Simple Purify", "seal", 230, 115,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/3/0/3032654.jpg");
@@ -93,11 +92,9 @@ P("skincare", "Kem dưỡng Olay", "seal", 179, 89,"https://down-vn.img.susercon
 P("skincare", "Lotion dưỡng sáng 377", "seal", 300, 150,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-moxk0jmekzrj91.webp");
 
 /* ---------- CHỐNG NẮNG ---------- */
-P("chongnang", "Kem chống nắng Bioré", "seal", 256, 127,"https://biorevietnam.vn/wp-content/uploads/2023/08/1-2.png");
 P("chongnang", "Kem Chống Nắng Eucerin", "seal", 404, 200,"https://img.onelife.vn/yzhu-sUva24nfNzgyHVkSpwhvFn8LZDD8hq6f2NCFek/rs:fit:1350:1695:1/aHR0cHM6Ly9zdGF0aWMuanVuby52bi9jbXNpbWFnZS9wdWJsaWMvbWFjLWRpbmhfa2NuMDExXzFfMjAyNjA0MTYxNTI1MjEuanBlZw.webp");
 P("chongnang", "Bioré UV Aqua Rich", "seal", 200, 100,"https://biorevietnam.vn/wp-content/uploads/2023/08/2-1.png");
 P("chongnang", "Serum chống nắng La Roche-Posay", "test", 520, 250,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
-P("chongnang", "Sữa chống nắng Biore UV Smooth Velvet Pore Cover Milk 30ml", "test", 120, 60,"https://production-cdn.pharmacity.io/digital/1080x1080/plain/e-com/images/ecommerce/20260710085811-1-P09554_1.png?versionId=MCnqhEDlwu3ObvME9ZDBpd_3wDVIhMW5");
 P("chongnang", "Kem chống nắng La Roche-Posay", "seal", 520, 250,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/lrp_anthelios_uvmune_400_oil_gel_cream_ap_bottle_packshot_front_f43835fdee.png");
 P("chongnang", "Kem chống nắng Medicube", "test", 390, 195,"https://img.lazcdn.com/g/p/b4821ff3523559a71e8b3c425743fd75.jpg_720x720q80.jpg_.webp");
 P("chongnang", "Kem chống nắng Ositree", "test", 312, 156,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mmfs3plwfncw32.webp");
