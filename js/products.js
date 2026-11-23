@@ -61,7 +61,6 @@ P("lamsach", "Sáp tẩy trang L'Adore Colors", "test", 230, 115,"https://down-v
 P("lamsach", "Sáp tẩy trang Ucanbe", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfpbgqpn9oncd3.webp");
 P("lamsach", "Sáp tẩy trang Ositree", "seal", 225, 112,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mundayl8b4lfa3.webp");
 P("lamsach", "Dầu tẩy trang Dopi", "seal", 280, 140,"https://down-vn.img.susercontent.com/file/sg-11134201-825bb-mrimnnsheayw77.webp");
-P("lamsach", "Tẩy tế bào chết Retolab", "seal", 280, 140,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mt7zogbjtjpie2.webp");
 
 /* ---------- SKINCARE ---------- */
 P("skincare", "Kem trị mụn Trioderma", "seal", 190, 95, "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhkql1vwf18oab.webp");
@@ -202,7 +201,6 @@ P("son", "Son Mistine", "test", 143, 70,"https://down-vn.img.susercontent.com/fi
 P("son", "Son Romand", "test", 226, 113, "https://bizweb.dktcdn.net/thumb/1024x1024/100/193/981/products/son-romand-juicy-lasting-tint-bang-mau-1.png");
 P("son", "Son môi & má hồng 2-in-1 Mooekiss chất son thạch màu 02", "test", 120, 60, "https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mrpdfuc12w3oca.webp");
 P("son", "Son Timephoria", "test", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mk28s0oa0gzk4b.webp");
-P("son", "Son SHATAIL", "test", 180, 90,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mtp0higsgiyv84.webp");
 P("son", "Son Colorkey", "test", 170, 85,"https://down-vn.img.susercontent.com/file/sg-11134201-81zw0-mizl16wm8hdsce.webp");
 P("son", "Son Bóng JOOCYEE Glazed Lipgloss ", "test", 350, 170,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mo5bef7cx3ib6c.webp");
 P("son", "Son Bóng Khóa Màu Judydoll Stay Shine Lipstick ", "seal", 300, 150,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtoyk8z1g2yw59.webp");
@@ -223,5 +221,4 @@ P("khac", "Serum dưỡng tóc Dove", "seal", 250, 125,"https://down-vn.img.suse
 P("khac", "Sữa tắm Purité", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m6pb5ruw10ewab.webp");
 P("khac", "Sữa tắm Dove", "seal", 280, 140,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/b/z/bzu_bzu_guardian_vi_t_nam_4__1.png");
 P("khac", "Muối tắm Baresoul", "seal", 232, 116,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2nal91kgtdmd3.webp");
-P("khac", "Tẩy Tế Bào Chết Cindy Bloom", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/sg-11134201-825a9-mu906lhtcrnqde.webp");
 P("khac", "Túi Bagsmart", "seal", 600, 300,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mk0ng0ksnbwo5d.webp");
