@@ -92,6 +92,7 @@ P("skincare", "Lotion dưỡng sáng 377", "seal", 300, 150,"https://down-vn.img
 
 /* ---------- CHỐNG NẮNG ---------- */
 P("chongnang", "Kem Chống Nắng Eucerin", "seal", 404, 200,"https://img.onelife.vn/yzhu-sUva24nfNzgyHVkSpwhvFn8LZDD8hq6f2NCFek/rs:fit:1350:1695:1/aHR0cHM6Ly9zdGF0aWMuanVuby52bi9jbXNpbWFnZS9wdWJsaWMvbWFjLWRpbmhfa2NuMDExXzFfMjAyNjA0MTYxNTI1MjEuanBlZw.webp");
+P("chongnang", "Kem Chống Nắng innisfree ", "seal", 420, 210,"https://down-vn.img.susercontent.com/file/vn-11134201-7ra0g-m8ppn0k0vkw236.webp");
 P("chongnang", "Bioré UV Aqua Rich", "seal", 200, 100,"https://biorevietnam.vn/wp-content/uploads/2023/08/2-1.png");
 P("chongnang", "Serum chống nắng La Roche-Posay", "test", 520, 250,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
 P("chongnang", "Kem chống nắng La Roche-Posay", "seal", 520, 250,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/lrp_anthelios_uvmune_400_oil_gel_cream_ap_bottle_packshot_front_f43835fdee.png");
@@ -123,7 +124,6 @@ P("nen", "Kem lót Hoa Tây Tử", "test", 720, 360,"https://down-vn.img.suserco
 P("nen", "Kem lót Mistine", "seal", 220, 110,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mtnlinbewnb575.webp");
 P("nen", "Kem lót FunnyElves", "seal", 340, 170,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mmnhkchqgv7m02.webp");
 P("nen", "Kem lót Focallure", "seal", 160, 160,"https://down-vn.img.susercontent.com/file/cn-11134207-7ras8-m48oo18g5a8p45.webp");
-P("nen", "Kem lười nâng tone Little Ondine", "test", 260, 130,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mrn9wp0fz4ec65.webp");
 P("nen", "Che khuyết điểm Redchamber", "test", 800, 400,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mtqgo7loqpl1bc.webp");
 P("nen", "Che khuyết điểm đa năng 5 màu Mooekiss", "test", 186, 93,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-msy2doszd2bofa.webp");
 P("nen", "Cushion Carslan", "seal", 430, 215,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mts9fl5ipwqq41.webp");
@@ -138,7 +138,6 @@ P("nen", "Cushion Essence Nâng Tone Kiềm Dầu ", "seal", 259, 125,"https://d
 P("nen", "Cushion Mistine", "seal", 390, 194,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mothg81kh91p98.webp");
 P("nen", "Cushion Dirovo", "seal", 280, 140,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mn30zqdry5mw6a.webp");
 P("nen", "Cushion Focallure", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljp3a8ovl9kkaf.webp");
-P("nen", "Phấn phủ Pramy", "test", 334, 164,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu7ft4s8q2o170.webp");
 P("nen", "Phấn Phủ Nén Thỏ Menow Rabbit Compact Powder", "test", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mh0734enrj0sa9.webp");
 P("nen", "Phấn phủ JMCY", "seal", 80, 40,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mum1u6pgl4w1fc.webp");
 P("nen", "Phấn phủ Judydoll", "test", 180, 90,"https://down-vn.img.susercontent.com/file/sg-11134201-825az-muop68xu47bed1.webp");
@@ -216,7 +215,7 @@ P("khac", "Bộ cọ trang điểm Maange 14 cây", "seal", 180, 90,"https://dow
 P("khac", "Bộ cọ trang điểm Gu Việt", "seal", 440, 220,"https://bizweb.dktcdn.net/thumb/grande/100/348/157/products/nau-biaweb-ne-01.jpg?v=1749357245690");
 P("khac", "Nước hoa", "seal", 120, 60,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mrfop37uilmp94.webp");
 P("khac", "Xịt mọc tóc Lab On Hair", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mr9nlv5ks4xu47.webp");
-P("khac", "TINH DẦU DƯỠNG TÓC CHUẨN SALON KARSILK", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mj5cs9t9o5q8ef@resize_w900_nl.webp");
+P("khac", "TINH DẦU DƯỠNG TÓC CHUẨN SALON KARSILK", "test", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mj5cs9t9o5q8ef@resize_w900_nl.webp");
 P("khac", "Serum dưỡng tóc Dove", "seal", 250, 125,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mlg3ew5f9n2n58.webp");
 P("khac", "Sữa tắm Purité", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m6pb5ruw10ewab.webp");
 P("khac", "Sữa tắm Dove", "seal", 280, 140,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/b/z/bzu_bzu_guardian_vi_t_nam_4__1.png");
