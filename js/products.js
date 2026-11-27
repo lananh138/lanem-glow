@@ -49,8 +49,10 @@ function P(cat, name, status, orig, sale, extra) {
 
 /* ---------- TẨY TRANG & RỬA MẶT ---------- */
 P("lamsach", "Nước tẩy trang Judydoll", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/sg-11134201-825at-muop60cvfw8w49.webp");
+P("lamsach", "Nước tẩy trang Eucerin", "seal", 330, 165,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpaclxaqz0nhda@resize_w450_nl.webp");
 P("lamsach", "Nước tẩy trang Colorkey", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mpnkif3i4phccd.webp");
 P("lamsach", "Sữa rửa mặt Cỏ Cây Hoa Lá", "seal", 294, 145,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mu4cttzuvtab79.webp");
+P("lamsach", "Sữa Rửa Mặt Cho Da Nhạy Cảm Eucerin", "seal", 230, 115,"https://cdn.hstatic.net/products/1000006063/eshop_2026_v3-25_63e190f68169479fb94ebdb86ca94847_1024x1024.jpg");
 P("lamsach", "Gel Rửa Mặt Sạch Thoáng Simple Purify", "seal", 230, 115,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/3/0/3032654.jpg");
 P("lamsach", "Sữa Rửa Mặt Cám Gạo", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mjdxb3lfbj0n8f.webp");
 P("lamsach", "Sữa rửa mặt Sắc Ngọc Khang", "seal", 100, 50,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mcitrzjs615of5.webp");
@@ -60,12 +62,10 @@ P("lamsach", "Sáp tẩy trang M.Len Diary", "seal", 237, 118,"https://down-vn.i
 P("lamsach", "Sáp tẩy trang L'Adore Colors", "test", 230, 115,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mrqsycw0lgqq7d.webp");
 P("lamsach", "Sáp tẩy trang Ucanbe", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mfpbgqpn9oncd3.webp");
 P("lamsach", "Sáp tẩy trang Ositree", "seal", 225, 112,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mundayl8b4lfa3.webp");
-P("lamsach", "Dầu tẩy trang Dopi", "seal", 280, 140,"https://down-vn.img.susercontent.com/file/sg-11134201-825bb-mrimnnsheayw77.webp");
 
 /* ---------- SKINCARE ---------- */
 P("skincare", "Kem trị mụn Trioderma", "seal", 190, 95, "https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mhkql1vwf18oab.webp");
 P("skincare", "Gel Chấm Mụn DermaX ", "seal", 180, 90, "https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-muu1yexrkdft2a.webp");
-P("skincare", "Kem Dưỡng Giảm Mụn La Roche Posay", "seal", 240, 120, "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lphvxb4ghhdh66.webp");
 P("skincare", "Toner pad Medicube", "seal", 700, 300,"https://down-vn.img.susercontent.com/file/sg-11134201-824gm-mfnuyadcqosub7.webp");
 P("skincare", "Toner pad Medicube PDRN", "seal", 700, 300,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m92izyaczdke87@resize_w900_nl.webp");
 P("skincare", "Toner Sơn Đòong", "seal", 200, 100,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mtt349ft7uo8c1.webp");
@@ -96,6 +96,7 @@ P("chongnang", "Kem Chống Nắng innisfree ", "seal", 420, 210,"https://down-v
 P("chongnang", "Bioré UV Aqua Rich", "seal", 200, 100,"https://biorevietnam.vn/wp-content/uploads/2023/08/2-1.png");
 P("chongnang", "Serum chống nắng La Roche-Posay", "test", 520, 250,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/l/a/larocheposay-product-sun-anthelios-uvair_serum_sunscreen-spf50_50ml-3337875932349-atf-pim-packshot_front.jpg");
 P("chongnang", "Kem chống nắng La Roche-Posay", "seal", 520, 250,"https://cdn.nhathuoclongchau.com.vn/unsafe/768x0/filters:quality(90):format(webp)/lrp_anthelios_uvmune_400_oil_gel_cream_ap_bottle_packshot_front_f43835fdee.png");
+P("chongnang", "Gel Chống Nắng Màng Nước Dưỡng Ẩm Bioré Uv Aqua Rich Watery Gel SPF50+ PA++++", "seal", 260, 130,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/b/z/bzu_bzuguardian_vi_t_nam_19__3.png");
 P("chongnang", "Kem chống nắng Medicube", "test", 390, 195,"https://img.lazcdn.com/g/p/b4821ff3523559a71e8b3c425743fd75.jpg_720x720q80.jpg_.webp");
 P("chongnang", "Kem chống nắng Ositree", "test", 312, 156,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mmfs3plwfncw32.webp");
 P("chongnang", "Kem chống nắng Simple", "test", 229, 100,"https://www.guardian.com.vn/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/s/i/simple_hi_guideline4_hydrating.png");
@@ -158,6 +159,7 @@ P("ma", "Má hồng Mooekiss", "test", 140, 70,"https://down-vn.img.susercontent
 P("ma", "Má hồng Chéeryep", "test", 350, 160,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mododux48s254d.webp");
 P("ma", "Má hồng Timage", "seal", 290, 145,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mqyjm98exrm417.webp");
 P("ma", "Má hồng Menow", "test", 100, 50,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m767fted614od5.webp");
+P("ma", "Phấn má dạng kem AFTERFIVE", "test", 100, 50,"https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m767fted614od5.webp");
 P("ma", "Má hồng JOOCYEE", "test", 300, 150,"https://down-vn.img.susercontent.com/file/sg-11134201-82595-muwxddp9io7972.webp");
 P("ma", "Má hồng SHEGLAM", "test", 140, 70,"https://down-vn.img.susercontent.com/file/cn-11134207-820l4-mthm3z8adjwn31.webp");
 P("ma", "Má hồng Judydoll mini", "seal", 100, 50,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mc3eaj1d3ib663.webp");
@@ -210,6 +212,7 @@ P("khac", "Xịt khóa nền Mistine", "seal", 160, 80,"https://down-vn.img.suse
 P("khac", "Xịt khóa nền JM Solution", "seal", 160, 80,"https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2q8pjqayl8mbb.webp");
 P("khac", "Xịt tan nền Jung Saem Mool 55ml ", "seal", 480, 240,"https://bizweb.dktcdn.net/100/525/087/products/jsm.jpg?v=1792566622937");
 P("khac", "Xịt Khóa Trang Điểm Colorkey ", "seal", 160, 80,"https://www.guardian.com.vn/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/1/_/1_58_3.jpg");
+P("khac", "[PRAMY] Xịt Khoá Nền Makeup Artist Bản Bạc Khóa Chặt Lớp Trang Điểm", "seal", 320, 160,"https://down-vn.img.susercontent.com/file/sg-11134201-81zwl-mn6182117vgk43.webp");
 P("khac", "Mút đánh nền + cọ tán nền BLJ", "seal", 324, 150,"https://down-vn.img.susercontent.com/file/vn-11134207-81ztc-mop9ge5umjuqff.webp");
 P("khac", "Bộ cọ trang điểm Maange 14 cây", "seal", 180, 90,"https://down-vn.img.susercontent.com/file/vn-11134207-820l4-mibh5hsmnsw4f9.webp");
 P("khac", "Bộ cọ trang điểm Gu Việt", "seal", 440, 220,"https://bizweb.dktcdn.net/thumb/grande/100/348/157/products/nau-biaweb-ne-01.jpg?v=1749357245690");
